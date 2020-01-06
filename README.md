@@ -1,8 +1,11 @@
-# Fast campus Online JavaScript Project
+# BOOK PROJECT
 
-[Slide](https://slides.com/woongjae/fc-javascript)
-
+[Slide]
 ```
 npm i
 npm start
+
+id : test@marktube.tv
+password : 1234
+
 ```
